@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2023 Wilhelm Ågren
+Copyright (c) 2024 Wilhelm Ågren
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
