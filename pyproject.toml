@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pyfinq"
+version = "0.1.0"
+description = ""
+authors = [
+    "Wilhelm Ågren <wilhelmagren98@gmail.com>",
+]
+license = "MIT"
+readme = "README.md"
+
+packages = [ { include = "finq" } ]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+yfinance = "^0.2.40"
+
