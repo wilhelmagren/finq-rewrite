@@ -22,14 +22,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 File created: 2024-05-17
-Last updated: 2024-05-17
+Last updated: 2024-05-20
 """
 
 from pathlib import Path
 
 
 def default_finq_path() -> Path:
-    """ Get the default absolute path to data used- and saved by `finq`.
+    """ Get the absolute path to the default directory containing any
+    data used- and saved by the `finq` module.
 
     Returns
     -------
